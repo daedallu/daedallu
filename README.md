@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @daedallu
-- 👀 I’m interested in development
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning C, JS/HTML/CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 daedallu/daedallu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
