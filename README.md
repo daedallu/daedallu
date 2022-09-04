@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daedallu
 - 👀 I’m interested in development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C, JS/HTML/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
