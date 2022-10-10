@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @daedallu
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning C, JS/HTML/CSS
+- 👀 I’m interested in Network Security, Back End, GNU/Linux and OpenSource as a whole.
+- 🌱 I'm currently learning Network, Java, Perl, HTML/JS/CSS and Linux (all on my own, searching to and fro).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
-<!---
-daedallu/daedallu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!---I'm just a beginner and curious at IT, fascinated by technology and programming languages, Network Security (despite being very, very newbie to it). With a special love for "Linuxverse", since this was my the point of entry in this world (thanks AntiX Linux!!!). 
+
 --->
