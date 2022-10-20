@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daedallu
 - 👀 I’m interested in Network Security, Back End, GNU/Linux and OpenSource as a whole.
-- 🌱 I'm currently learning Network, Java, Perl, HTML/JS/CSS and Linux (all on my own, searching to and fro).
+- 🌱 I'm currently learning Network, Java, C, HTML/JS/CSS and Linux (all on my own, searching to and fro).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qamssetmanem.outlook.com and advieiraii@gmail.com.
 
