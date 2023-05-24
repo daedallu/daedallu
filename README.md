@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rashidi
+- 👋 Hi, I’m @Daedalu
 - 👀 I’m interested in Network Security, Back End, GNU/Linux and OpenSource as a whole.
 - 🌱 I'm currently learning C, Python, Linux and Perl (all on my own, searching to and fro).
 - 💞️ I’m looking to collaborate on ...
