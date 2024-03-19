@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daedalu
 - 👀 I’m interested in Cyber Sec, Data Science, GNU/Linux (I'm Linux enthusiast!) and OpenSource as a whole.
-- 🌱 I'm currently learning C, Python, Linux and Assembly (all on my own, searching to and fro).
+- 🌱 I'm currently learning Rust, Python, Linux and Assembly (all on my own, searching to and fro).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me qamssetmanem.outlook.com and advieiraii@gmail.com.
 
